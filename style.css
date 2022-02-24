@@ -13,14 +13,12 @@ body {
     font-family: sans-serif;
     font-size: 16px;
 }
-ul > li {
-    text-align: center;
-}
 /********** Container H2 styles for region position on section with margins
 , size, border and !float clearing!********/
 .container {
     width: 100%;
 }
+
 h2 {
     position: absolute;
     top: 0px;
